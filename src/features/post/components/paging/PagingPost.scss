@@ -1,0 +1,18 @@
+.paging_post {
+    margin-left: 10px;
+
+    &__btn {
+        background-color: beige;
+        margin-top: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    &__active {
+        color: blue;
+    }
+
+    > a {
+      cursor: pointer;  
+    }
+}

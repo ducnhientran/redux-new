@@ -1,0 +1,12 @@
+.news {
+    background: beige;
+    border-bottom: solid;
+    margin-left: 10px;
+
+    &__title {
+        font-weight: bold;
+        font-size: 25px;
+        padding-left: 10px;
+    }
+}
+
